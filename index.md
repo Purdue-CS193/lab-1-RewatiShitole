@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Rewati's first CS193 Lab
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Being taught by undergrad students gives a friendly aspect to this course.
+- The frequency of the class is just once a week which is pretty amazing.
+- The tools being taught in this class add the technical aspect to our learning process.
 
 1. Numbered
 2. List
